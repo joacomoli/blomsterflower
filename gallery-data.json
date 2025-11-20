@@ -1,0 +1,1526 @@
+{
+  "destacados": {
+    "label": "Destacados",
+    "items": [
+      {
+        "src": "images/45539AE9-3C74-4626-91E6-31760902C8C8 (1).jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/45539AE9-3C74-4626-91E6-31760902C8C8 (2).jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/91CDA4BD-68AB-4AEE-ABB2-23D412059576.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/IMG_1318 (2).jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/IMG_1987.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/IMG_4147.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/IMG_4407.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/IMG_4411.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/IMG_5984.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/IMG_5988 (1).jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/IMG_5988.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/IMG_9150 (1).jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/IMG_9151.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/logo.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  "arreglos-secos": {
+    "label": "Arreglos Secos",
+    "items": [
+      {
+        "src": "images/Arreglos Secos/0AC70B53-4C4F-4C53-B5FC-F084FF4F3ED5.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/1.png",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/1FDF2DC2-9652-4611-9117-3F23F3A9734E.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/2.png",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/44d46f5a-0fe7-4998-836f-d82238b8b7f3.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/52EB5D78-FFCD-469D-BE53-57731AD4C809.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/6625dafc-e0f2-4ae0-af38-8284f4063f41.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/6C01DF5D-03EF-41F5-8E4F-639D7E47524A.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/B9B92E3A-5177-4656-8A48-12FF27DA4E40.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_0112.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_0139.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_0408.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_0414.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_0575.heic",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_0597.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_0718.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_0719.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_1519.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_1523_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_1524_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_2078_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_2130.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_2146.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_2152.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_2153.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_2160.heic",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_2382.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_2384.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_2717.heic",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_2927.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_3215.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_3584.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_4102.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_4110.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_4293.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_4295.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_4622.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_4624.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_4987.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_5375.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_5375.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_6533.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_6544.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_6923_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_7058_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_7105.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_7121.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_7127.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_7552.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_7679.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_7717.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_8334.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_8751_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_9136.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_9622.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_9624.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_9627.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_9632.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_9660.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/IMG_9662.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Arreglos Secos/_MG_0834.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  "centros-de-mesa": {
+    "label": "Centros de mesa",
+    "items": [
+      {
+        "src": "images/Centros de mesa/0579861F-FD8F-4890-9CC2-D342600F0925.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/23158cc2-fb61-40b8-8f2f-ceb8fe7d4d9b.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/39AE9780-4511-4D87-BC78-DD15335E763D.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/45E96917-60F0-4196-B744-CE6EE6B9DDA5.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/5245134F-D5A6-470D-AB70-A06DD27A8A9C.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/6b9feb3d-cc6e-41b0-aaf5-7c6396df332d.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/75C3812B-4FF0-4F6C-B0A7-8FB9934C28A6.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/A4824B68-7496-47D0-B45E-3E3A4FC9AB16.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/c9565093-b8dc-43e9-a969-8d98abaf6cc7.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/D77D410D-9EF8-4F6B-AFE8-1F3E97C947DA.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/EC0D9053-03D5-48C7-8633-7647D35117FD.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_0668.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_0725.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_0765.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_1031.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_1032.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_1033.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_1043.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_1360.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_2064-3.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_2065-2.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_2065-4.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_2176.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_2219.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_2519.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_3036.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_3054.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_3250.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_3822.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_3825.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_3838_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_3848_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_3853_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_4232.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_5174.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_5202.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_5231.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_5236.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_5265_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_5282_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_5888.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_5896.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_6296.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_7522.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_7999.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_8229_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_8901.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_8933_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_8938.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9008.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9231.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9233.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9244_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9480.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9687.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9689.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9690.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9691.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9695.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9696.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9704.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9718.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9728.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9732.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9751.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9754.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9762.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9770.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9781.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9786.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9862.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9883.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9885.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/IMG_9900.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Centros de mesa/_MG_4655.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  "casa-foa": {
+    "label": "Casa Foa",
+    "items": [
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0014-Editar.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0068.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0069.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0070.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0071.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0072.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0073.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0074.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0075.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0076.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0077.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0078.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/2024-10-28_@casafoa_24_0079.png",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/FAA61D19-E38D-40ED-BBBB-A3F9EC7DC6F8.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5033.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5051(1).jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5051.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5052(1).jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5052.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5053.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5054(1).jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5054.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5055(1).jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5055.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5061.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5062(1).jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/IMG_5062.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/_MG_5036.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Casa Foa/_MG_5037.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  "salazar-instalacion-local-talcahuano": {
+    "label": "Salazar instalación local talcahuano",
+    "items": [
+      {
+        "src": "images/producciones/Salazar instalación local talcahuano/D85A27AE-DF64-4A9B-A22A-EA0C0B9A5244.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Salazar instalación local talcahuano/IMG_2806.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Salazar instalación local talcahuano/IMG_2811.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Salazar instalación local talcahuano/IMG_2827.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Salazar instalación local talcahuano/IMG_2849.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/producciones/Salazar instalación local talcahuano/IMG_2934.HEIC",
+        "type": "image"
+      }
+    ]
+  },
+  "ramos-de-novia": {
+    "label": "Ramos de novia",
+    "items": [
+      {
+        "src": "images/Ramos de novia/2FBD6E9B-5031-4E74-9F10-DAAD01BF30EF.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/7FA70586-B5BB-4F6E-BDF0-20D71E5521A9.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/86b1819b-bee1-4878-b441-f7201894f1a0.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/891E4C53-612F-4753-96F9-6CFEADCC5E8E.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/D11CA167-A5E3-4309-B06C-02CFA407E8D6.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/d25405cb-7639-468b-849c-d5a6ab98d2aa.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/dc885360-0463-4d64-9667-3c0e1a30ea83-2.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/dc885360-0463-4d64-9667-3c0e1a30ea83.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/E53E0C03-A90E-4155-9944-0F57CDE09B3B.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/f1ca64b7-60e7-442a-a32b-16dbffd59dd6.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_0933_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_0935_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_0940.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_1832.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_1836_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_1838_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_1839_jpg.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_1841.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_1842.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_2108.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_2928.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_3322.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_3330.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_3813.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_3816.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_3818.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_3820.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_4538.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_4546.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_5203.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_5205.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_6342.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_6558.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_6755.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_8798(1).HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_8798.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_8800.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_8803.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_8843.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_8846(1).HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_8846.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_8847.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_8956.DNG",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_8957.DNG",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_9120.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_9443.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_9502.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_9507.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_9628(1).HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_9628.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_9631(1).HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_9631.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_9741(1).HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/IMG_9741.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/_MG_0726.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Ramos de novia/_MG_0729.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  "tocados": {
+    "label": "Tocados",
+    "items": [
+      {
+        "src": "images/Tocados/IMG_4205.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados/IMG_5417.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados/IMG_5420.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados/IMG_5773.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados/IMG_5840.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados/IMG_6529.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados/IMG_6550.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados/IMG_6552.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados/IMG_6553.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados/IMG_9752.HEIC",
+        "type": "image"
+      }
+    ]
+  },
+  "tocados-artisticos": {
+    "label": "Tocados Artisticos",
+    "items": [
+      {
+        "src": "images/Tocados Artisticos/3efb896f-8c1e-4833-9cb0-60f4d82b9711.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/77919559-CD62-4185-A655-03FB9DF17F7A.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/C011C24F-16E9-4D56-AF82-2A60FE95A847.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/D94FFBD7-A002-430E-93C9-5975F3A4DF53.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_0468.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_0475.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_0494.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_0496.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_0515.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_1316.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_1321.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_2228.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_2239.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_2268.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_3243.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_3246-2.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_3251-2.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_3252.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_4082.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_4333.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_4334.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_4335.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_4336.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_4370.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_4465.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_4501-2.jpeg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_4501-2.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_4541.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_4590-2.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_4595.jpeg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_5150.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_6638-2.jpeg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_6686.jpeg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_6687.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_6871.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_7085.PNG",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_7086.PNG",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_7087.PNG",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_7088.PNG",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_7089.PNG",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_7090.PNG",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_7092.PNG",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_7093.PNG",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_9262.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_9265-2.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_9265.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_9266.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_9277.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_9290.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_9314.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_9377.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_9382.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/IMG_9440.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/page2.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/page3.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/page4.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/_MG_0762-2.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/_MG_0762.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/Tocados Artisticos/_MG_0787.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  "copenhague": {
+    "label": "Copenhague",
+    "items": [
+      {
+        "src": "images/viajes/Copenhague/1CCA3FFB-157B-4580-88DC-8C4F11F7332D.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/77287825-CA23-4923-AE3E-2B32850EDC11.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1059.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1104.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1106.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1226.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1227.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1228.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1229.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1232.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1242.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1250.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1251.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1252.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1376.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1377.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_1378.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_3768.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Copenhague/IMG_3769.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  "paris": {
+    "label": "Paris",
+    "items": [
+      {
+        "src": "images/viajes/Paris/e86cda8e-a89a-48e0-ae12-bd8c8f7e4d8d.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Paris/IMG_1624.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Paris/IMG_1625.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Paris/IMG_1633.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Paris/IMG_4029.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  "rio-de-janeiro": {
+    "label": "Rio de Janeiro",
+    "items": [
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4116.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4412.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4494.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4495.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4497.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4498.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4500.MOV",
+        "type": "video"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4501.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4502.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4506.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4509.HEIC",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4852.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4853.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Rio de Janeiro/IMG_4889.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  "tulipanes": {
+    "label": "Tulipanes",
+    "items": [
+      {
+        "src": "images/viajes/Tulipanes/IMG_1455.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1458.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1471.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1473.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1486.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1490.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1502.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1510.CR2",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1515.CR2",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1516.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1517.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1521.CR2",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1522.CR2",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1522.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1525.CR2",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1527.CR2",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1527.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/viajes/Tulipanes/IMG_1530.jpg",
+        "type": "image"
+      }
+    ]
+  }
+}
